@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/gauravgp24x7/gauravgp24x7/raw/main/Gaurav-Gupta-Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1hBDeCz8gO0W-EyjB_A_U_dzwdIebZ3sK/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -72,16 +72,16 @@
 ## 🧠 Coding Platforms
 
 <p align="left">
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/igauravg/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/gauravge4br" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/gauravgp24x73" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/igauravg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
