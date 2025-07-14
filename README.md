@@ -61,8 +61,17 @@
 ## 🧠 Coding Platforms
 
 <p align="left">
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
   <a href="https://www.hackerrank.com/profile/gauravgp24x73" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%231BA94C.svg?style=flat&logo=HackerRank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
