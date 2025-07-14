@@ -100,15 +100,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=35F1AE&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+learning+%26+growing+🌱;Happy+coding+👨‍💻" alt="Thanks Animation" />
-</p>
-<p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Thanks for visiting!" />
 </p>
 
-<h3 align="center">
-  🚀 Thank you for visiting!<br>
-  Keep learning & growing 🌱<br>
-  Happy coding 👨‍💻
-</h3>
 
